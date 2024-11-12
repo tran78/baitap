@@ -1,0 +1,45 @@
+  h1{
+    text-align: center;
+    width:100%;
+    border:1px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    text-align:center;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+  background-color: aqua;
+  }
+  tr td:first-child {
+    background-color: #FFA500;
+    font-weight: bold;
+    color: #333;
+  }
+ .menu {
+    text-align:center;
+
+ }
+ .thơ {
+    text-align:center;
+    width:1000;
+    font-size:150%;
+ }
+ .menu a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black; 
+    background-color: orange;
+    border-radius: 3px; 
+    margin: 5px; 
+
+}
